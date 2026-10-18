@@ -7,7 +7,7 @@ from shell import run_shell
 
 def boot():
     print(f"{ui.BOLD}{ui.RED}" + "=" * 40)
-    print("         KarlOS version 1.0")
+    print("         KarlOS v1.0")
     print("=" * 40 + ui.RESET)
     print("Welcome to KarlOS")
 

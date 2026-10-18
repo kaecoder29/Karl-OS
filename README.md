@@ -9,7 +9,7 @@
 1. Karl Frederick Sitjar
 2. Ritchie Conrad Hoo
 3. Zenadine Zidane Pablo
-4. Jhuncel Loriosa
+4. Juncel Loriosa
 5. Danica Grace Perjes
 
 ## 3. Project Description
